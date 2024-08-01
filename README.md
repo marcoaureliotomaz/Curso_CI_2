@@ -16,12 +16,7 @@ Integração Contínua: Pipeline Docker no Github Actions** da Alura.
 - Git Actions
 - Golang
 
-## Requisitos
 
-- [Docker](https://www.docker.com/get-started)
-- [Go](https://golang.org/doc/install)
-- [Git](https://git-scm.com/)
-- Conta no [GitHub](https://github.com/)
 
 
 

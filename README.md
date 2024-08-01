@@ -1,4 +1,4 @@
-# # Projeto de Estudo: CI/CD com Docker e  GitHub Actions
+# Projeto de Estudo: CI/CD com Docker e  GitHub Actions
 
 Bem-vindo ao repositório do projeto de estudo para implementar um pipeline de CI/CD utilizando Docker e GitHub Actions para uma aplicação de exemplo e Golang do curso de **Curso de
 Integração Contínua: Pipeline Docker no Github Actions** da Alura.

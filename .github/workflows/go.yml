@@ -49,6 +49,16 @@ jobs:
     - uses: actions/checkout@v4
     - name: Build
       run: go build -v main.go
+
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v4.3.4
+      with:
+        # Artifact name
+        name: app_go
+        # A file, directory or wildcard pattern that describes what to upload
+        path: main.go
+        # The desired behavior if no files are found using the provided path.
+    
   
   docker:
     needs: build
